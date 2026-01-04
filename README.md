@@ -14,7 +14,7 @@ This project analyzes whether remote roles are paid less than on-site roles with
 - Some job titles only appear as on-site or remote due to data availability.
 
 ## Visualization
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tableau Public Link
 https://public.tableau.com/app/profile/eliza.wanye/vizzes
