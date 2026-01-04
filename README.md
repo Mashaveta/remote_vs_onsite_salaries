@@ -17,7 +17,7 @@ This project analyzes whether remote roles are paid less than on-site roles with
 ![Dashboard](Dashboard.png)
 
 ## Tableau Public Link
-https://public.tableau.com/app/profile/eliza.wanye/vizzes
+https://public.tableau.com/app/profile/eliza.wanye/viz/remote_vs_onsite_salaries_2023/Dashboard1
 
 ## SQL Query
 ```sql
